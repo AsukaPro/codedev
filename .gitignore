@@ -1,0 +1,20 @@
+# 编译产物
+/Debug/
+/Release/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.log
+
+# VSCode配置
+/.vscode/
+*.code-workspace
+
+# 系统缓存
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak
